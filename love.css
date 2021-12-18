@@ -1,0 +1,56 @@
+a{
+    text-decoration:none;
+
+}
+
+img{
+    height:100% ;
+    width: 100%;
+    object-fit: cover;
+}
+
+h1{
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+
+}
+
+h2{
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+}
+
+p{
+    font-size:100% ;
+    font-weight: bold;
+    text-align: center;
+}
+
+.brand span{
+    font-style: italic;
+    font-weight: bold;
+    background-color: lightcyan;
+    
+}
+
+@keyframes stylish_animation{
+    0%{
+
+    }
+    100% {
+    color:white
+    }
+
+}
+
+#link{
+    background-image:url(./ramcharan.svg);
+    object-fit: cover;
+
+}
+
+h3{
+    text-align: center;
+}
